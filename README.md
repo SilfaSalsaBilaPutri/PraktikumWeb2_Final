@@ -1,10 +1,10 @@
 # 📘 Laporan Akhir Praktikum Pemrograman Web 2
 
 **Nama**: Silfa Salsa Bila Putri  
-**NIM**: [Masukkan NIM kamu]  
-**Kelas**: [Masukkan Kelas]  
+**NIM**: 312310607  
+**Kelas**: TI.23.A6  
 **Mata Kuliah**: Pemrograman Web 2  
-**Dosen**: Agung Nugroho, S.Kom., M.TI  
+**Dosen**: Agung Nugroho, S.Kom., M.Kom.
 **Semester**: Genap 2024/2025
 
 ---
