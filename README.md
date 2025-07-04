@@ -13,17 +13,17 @@
 
 | No | Judul Praktikum                          | Deskripsi Singkat                          |
 |----|------------------------------------------|--------------------------------------------|
-| 1  | Instalasi CodeIgniter 4                  | Setup awal CI4 secara manual.              |
-| 2  | CRUD Artikel (Model, Controller, View)   | Tambah, edit, hapus artikel dasar.         |
+| 1  | PHP Framework (Codeigniter)                  | Setup awal CI4 secara manual.              |
+| 2  | Framework Lanjutan (CRUD)   | Tambah, edit, hapus artikel dasar.         |
 | 3  | View Layout & View Cell                  | Modularisasi tampilan dan komponen dinamis |
-| 4  | Relasi Artikel dan Kategori              | Integrasi kategori dengan artikel          |
-| 5  | Autentikasi Login                        | Login sederhana berbasis session           |
-| 6  | Admin Panel & Filtering Artikel          | Tampilan admin + filter kategori & judul   |
-| 7  | AJAX Load Artikel                        | Menampilkan data artikel via jQuery AJAX   |
-| 8  | AJAX Admin View                          | Pencarian, filter kategori, pagination via AJAX |
-| 9  | REST API Artikel                         | API untuk get, post, put, delete artikel   |
+| 4  | Framework Lanjutan (Modul Login)              | Integrasi kategori dengan artikel          |
+| 5  | Pignation Dan Pencarian                        | Login sederhana berbasis session           |
+| 6  | Upload File Gambar          | Tampilan admin + filter kategori & judul   |
+| 7  | Relasi Tabel dan Query Builder                        | Menampilkan data artikel via jQuery AJAX   |
+| 8  | AJAX                          | Pencarian, filter kategori, pagination via AJAX |
+| 9  | Implementasi AJAX Pignation dan Search                         | API untuk get, post, put, delete artikel   |
 | 10 | Testing API dengan Postman               | Uji semua endpoint API menggunakan Postman |
-| 11 | Frontend Vue.js + Axios + API            | Integrasi frontend Vue.js dengan REST API  |
+| 11 | Vue.js            | Integrasi frontend Vue.js dengan REST API  |
 
 ---
 
